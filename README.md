@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on the new Flutter App
-- 💻 My top 3 languages: Dart, Python, Go
+- 💻 My top 3 languages: 🎯 🐍 🦦
