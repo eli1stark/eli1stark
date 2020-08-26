@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.pinimg.com/originals/e9/a3/7a/e9a37af3354a555ecf36826997a0a1f7.gif" alt="Simply Easy Learning" width="200" height="200">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eccaac9a-7e03-4623-8123-9c734c51014a/d87hyo2-0876422f-27d6-4916-945f-7cc74c1ccd2c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZWNjYWFjOWEtN2UwMy00NjIzLTgxMjMtOWM3MzRjNTEwMTRhXC9kODdoeW8yLTA4NzY0MjJmLTI3ZDYtNDkxNi05NDVmLTdjYzc0YzFjY2QyYy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QujCfj5kZZtapW2lS-LuEEYmGD7mjdOcuCEGfrwmOl4" alt="Simply Easy Learning" width="300" height="200">
 
 - 🔭 I’m currently working on the new Flutter App
 - 💻 My top 3 languages: 🎯 🐍 🦦
