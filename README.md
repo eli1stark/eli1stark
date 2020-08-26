@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.pinimg.com/originals/1a/8c/72/1a8c72c74355fc55f76f86459a1db5b9.gif" alt="Simply Easy Learning" width="200" height="200">
+<img src="https://i.pinimg.com/originals/e9/a3/7a/e9a37af3354a555ecf36826997a0a1f7.gif" alt="Simply Easy Learning" width="200" height="200">
 
 - 🔭 I’m currently working on the new Flutter App
 - 💻 My top 3 languages: 🎯 🐍 🦦
