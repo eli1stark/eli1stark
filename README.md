@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://thumbs.gfycat.com/WarlikeDistantBeardedcollie-size_restricted.gif" alt="Simply Easy Learning" width="500" height="200">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f17a18db-687f-4568-a1bd-f62f1d80611f/d5wgjuo-e797192f-d0b2-41dc-b943-fb7609b7780b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjE3YTE4ZGItNjg3Zi00NTY4LWExYmQtZjYyZjFkODA2MTFmXC9kNXdnanVvLWU3OTcxOTJmLWQwYjItNDFkYy1iOTQzLWZiNzYwOWI3NzgwYi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.twlQGn5EzVKZcn08-kWGF_J348OV0jd7jLe4ReiUS2Q" alt="Simply Easy Learning" width="500" height="200">
 
 - 🔭 I’m currently working on the new Flutter App
 - 💻 My top 3 languages: 🎯 🐍 🦦
