@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://thumbs.gfycat.com/WarlikeDistantBeardedcollie-size_restricted.gif" alt="Simply Easy Learning" width="500" height="200">
+
 - 🔭 I’m currently working on the new Flutter App
 - 💻 My top 3 languages: 🎯 🐍 🦦
