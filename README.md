@@ -144,6 +144,13 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
+```text
+Dart         31 hrs 48 mins  ███████████████████████▓░   94.76 % 
+YAML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Git Config   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Groovy       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+```
 <!--END_SECTION:waka-->
 
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&source=mailto&to=elistark.tech@gmail.com
