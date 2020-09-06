@@ -143,6 +143,9 @@ Here are some ideas to get you started:
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&source=mailto&to=elistark.tech@gmail.com
 [twitter]: https://twitter.com/eli1stark
 [linkedin]: https://linkedin.com/in/eli1stark
