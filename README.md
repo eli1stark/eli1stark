@@ -84,17 +84,17 @@ Here are some ideas to get you started:
   <div class="column">
     <img align="left" alt="Blockchain" width="26px" src="https://img.stackshare.io/service/10608/ciDiP1gY_400x400.jpg" />
   </div>
+</div>
+<div> <br> </div>
+
+<br>
+<div class="row">
   <div class="column">
     <img align="left" alt="Git" width="26px" src="https://img.stackshare.io/service/1046/git.png" />
   </div>
   <div class="column">
     <img align="left" alt="GitHub" width="26px" src="https://img.stackshare.io/service/27/sBsvBbjY.png" />
   </div>
-</div>
-<div> <br> </div>
-
-<br>
-<div class="row">
   <div class="column">
     <img align="left" alt="VSCode" width="26px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" />
   </div>
