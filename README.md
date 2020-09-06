@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Git" width="26px" src="https://img.stackshare.io/service/1046/git.png" />
   </div>
   <div class="column">
-    <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+    <img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/XECbcnS.jpg" />
   </div>
   <div class="column">
     <img align="left" alt="VSCode" width="26px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" />
