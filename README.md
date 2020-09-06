@@ -141,8 +141,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
----
-
+### Weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
 Dart         31 hrs 48 mins  ███████████████████████▓░   94.76 % 
@@ -152,6 +151,11 @@ Git Config   13 mins         ░░░░░░░░░░░░░░░░░
 Groovy       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 <!--END_SECTION:waka-->
+
+### Stats:
+![Eli's github stats](https://github-readme-stats.vercel.app/api?username=eli1stark&hide=contribs&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli1stark&layout=compact&hide_border=true)
+
 
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&source=mailto&to=elistark.tech@gmail.com
 [twitter]: https://twitter.com/eli1stark
