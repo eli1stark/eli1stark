@@ -144,9 +144,9 @@ Here are some ideas to get you started:
 ### Weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart       32 hrs 33 mins  ████████████████████████▓   98.03 % 
-HTML       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-YAML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Dart       32 hrs 47 mins  ████████████████████████▓   98.00 % 
+HTML       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+YAML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 XML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
