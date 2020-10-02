@@ -144,11 +144,11 @@ Here are some ideas to get you started:
 ### Weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart         18 hrs 57 mins  ████████████████████▓░░░░   82.70 % 
-YAML         1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Groovy       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-XML          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Dart         17 hrs 9 mins   ████████████████████▒░░░░   81.23 % 
+YAML         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+XML          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Groovy       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
 
