@@ -144,9 +144,11 @@ Here are some ideas to get you started:
 ### Weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart     33 hrs 1 min    ████████████████████████▓   98.36 % 
-YAML     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Groovy   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Dart     17 hrs 34 mins  ███████████████████████░░   91.38 % 
+Python   55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+YAML     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Groovy   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
