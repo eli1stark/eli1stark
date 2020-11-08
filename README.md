@@ -144,8 +144,10 @@ Here are some ideas to get you started:
 ### Weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
-Python   8 hrs 22 mins   ██████████████▒░░░░░░░░░░   57.33 % 
-Dart     6 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.58 % 
+Python     6 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.75 % 
+Dart       5 hrs 36 mins   ███████████░░░░░░░░░░░░░░   44.57 % 
+TOML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
 
