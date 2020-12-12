@@ -60,30 +60,6 @@ Here are some ideas to get you started:
   <div class="column">
     <img align="left" alt="JSON" width="26px" src="https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png" />
   </div>
-  <div class="column">
-    <img align="left" alt="HTML" width="26px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="CSS" width="26px" src="https://i.imgur.com/itjo8T6.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Bootstrap" width="26px" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Flask" width="26px" src="https://img.stackshare.io/service/1001/flask.jpg" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Jinja" width="26px" src="https://img.stackshare.io/service/2303/New_Project__20_.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="GoogleCloud" width="26px" src="https://img.stackshare.io/service/4240/1a61e4pu_400x400.jpg" />
-  </div>
-  <div class="column">
-    <img align="left" alt="GoogleAnalytics" width="26px" src="https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Blockchain" width="26px" src="https://img.stackshare.io/service/10608/ciDiP1gY_400x400.jpg" />
-  </div>
 </div>
 <div> <br> </div>
 
