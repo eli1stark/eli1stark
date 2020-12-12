@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Eli 👋
 - 🔭 I’m currently working on the new Flutter App
-- 🌱 I’m currently learning <a href="https://resocoder.com/2020/03/09/flutter-firebase-ddd-course-1-domain-driven-design-principles/">DDD</a>, <a href="https://github.com/felangel/bloc">BLoC</a>, Functional Programming
+- 🌱 I’m currently learning <a href="https://resocoder.com/2020/03/09/flutter-firebase-ddd-course-1-domain-driven-design-principles/">DDD</a> + <a href="https://riverpod.dev/">Riverpod</a>
 - 🦄 I’m looking to collaborate with other flutter developers
 - 😄 Pronouns: He/Him/His
 
@@ -85,6 +85,9 @@ Here are some ideas to get you started:
   </div>
   <div class="column">
    <img align="left" alt="GoogleChrome" width="26px" src="https://img.stackshare.io/service/2950/1200px-Google_Chrome_icon__September_2014_.svg.png" />
+  </div>
+   <div class="column">
+   <img align="left" alt="Jira" width="26px" src="https://i.imgur.com/YVupFPW.jpg" />
   </div>
 </div>
 
