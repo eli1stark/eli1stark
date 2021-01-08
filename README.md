@@ -95,7 +95,8 @@ Here are some ideas to get you started:
 ### Weekly breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart   5 mins          █████████████████████████   100.00 % 
+Dart   3 hrs 58 mins   ███████████████████████▒░   93.59 % 
+YAML   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 <!--END_SECTION:waka-->
 
