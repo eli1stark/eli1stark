@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 ### Weekly breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart     23 hrs 27 mins  ██████████████████████▓░░   91.01 % 
-YAML     1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Other    38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Groovy   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-XML      9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Dart     22 hrs 6 mins   ████████████████████▓░░░░   82.42 % 
+YAML     1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Groovy   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+XML      36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Bash     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
 
