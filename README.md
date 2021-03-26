@@ -7,9 +7,8 @@
 ### Weekly breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart         34 hrs 44 mins  ███████████████████████░░   92.50 % 
-YAML         2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-GraphQL      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Dart         39 hrs 30 mins  ████████████████████████▓   99.10 % 
+YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 <!--END_SECTION:waka-->
