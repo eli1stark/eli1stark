@@ -1,6 +1,6 @@
 ### Hi there, I'm Eli 👋
 - 🔭 I’m currently working on the new Flutter App
-- 🌱 I’m currently learning <a href="https://resocoder.com/2020/03/09/flutter-firebase-ddd-course-1-domain-driven-design-principles/">DDD</a> + <a href="https://riverpod.dev/">Riverpod</a>
+- 🌱 I’m currently learning Go
 - 🦄 I’m looking to collaborate with other flutter developers
 - 😄 Pronouns: He/Him/His
 
