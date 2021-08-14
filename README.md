@@ -7,6 +7,7 @@
 ### Weekly breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart   15 hrs          █████████████████████████   99.96 % 
+Dart   18 hrs 20 mins  ████████████████████████▓   98.72 % 
+JSON   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
