@@ -7,7 +7,8 @@
 ### Weekly breakdown:
 <!--START_SECTION:waka-->
 ```text
-Dart   18 hrs 46 mins  ████████████████████████▒   97.68 % 
-YAML   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Dart     17 hrs 6 mins   ████████████████████████▒   97.80 % 
+YAML     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Groovy   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 <!--END_SECTION:waka-->
