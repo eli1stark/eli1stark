@@ -7,12 +7,12 @@
 ### Weekly breakdown:
 <!--START_SECTION:waka-->
 ```text
-Total: 42 hrs 40 mins
+Total: 43 hrs 35 mins
 
-Dart         39 hrs 48 mins  ███████████████████████▒░   92.74 % 
-YAML         2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Dart     40 hrs 9 mins   ███████████████████████░░   91.58 % 
+YAML     2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Groovy   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other    15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JSON     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
