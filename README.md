@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                9 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   40.69 %
-TypeScript          7 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-YAML                4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Groovy              1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Java Properties     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Dart                13 hrs 6 mins   ███████████████░░░░░░░░░░   60.25 %
+YAML                4 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+Groovy              1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+TypeScript          1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Java Properties     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
