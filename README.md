@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                15 hrs 54 mins  ██████████████▒░░░░░░░░░░   57.51 %
-TypeScript          4 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-YAML                3 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-Gradle Kotlin DSL   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Dart                20 hrs 40 mins  ██████████████████░░░░░░░   71.58 %
+YAML                2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+TypeScript          2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Gradle Kotlin DSL   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Markdown            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
