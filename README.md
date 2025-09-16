@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                15 hrs 7 mins   ████████████████▓░░░░░░░░   67.15 %
-Gradle Kotlin DSL   4 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-YAML                49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Java Properties     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-CMake               40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Dart                12 hrs 34 mins  ███████████████▓░░░░░░░░░   62.98 %
+Gradle Kotlin DSL   4 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
+YAML                49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Java Properties     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+CMake               40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
