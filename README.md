@@ -8,8 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart          11 hrs 54 mins  ████████████████████████▓   98.76 %
-Image (svg)   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Dart          9 hrs 7 mins    ████████████████████████▓   98.46 %
+Image (svg)   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
