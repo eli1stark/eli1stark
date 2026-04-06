@@ -8,9 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         4 hrs 4 mins          ████████████████████████▓   98.56 %
-YAML         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dart         1 hr 44 mins          █████████████████████████   99.89 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
